@@ -2,10 +2,12 @@
 
 ![nike-simple-background-blue.jpg](https://github.com/ham407/Analisis-Penjualan-Produk-Nike-U.S.-Tahun-2020---2021/blob/main/img/nike-simple-background-blue.jpg)
 
-# Project Overview
+# Latarbelakang
 Sebagai seorang data analyst, kami diminta untuk melakukan analisis terhadap dataset penjualan Nike dengan mengevaluasi kenaikan penjualan produk yang terjadi. Diketahui dari persentase laporan penjualan terjadi kenaikan sebesar 7 kali lipat penjualan dari tahun 2020 ke tahun 2021. Hal ini menunjukkan pertumbuhan yang signifikan dalam performa penjualan produk Nike selama satu tahun terakhir.
 
 Kenaikan penjualan yang signifikan menunjukkan adanya potensi pertumbuhan bisnis yang besar. Ini menjadi dorongan untuk lebih memperhatikan faktor-faktor yang telah berkontribusi terhadap pertumbuhan ini, serta untuk mencari cara agar pertumbuhan ini dapat dipertahankan dan ditingkatkan di masa depan.
+
+Analisis bisnis dapat digunakan untuk memahami perubahan pola konsumen yang mendasari peningkatan penjualan. Dengan pemahaman yang lebih baik tentang preferensi dan kebiasaan konsumen, bisnis dapat mengarahkan strategi pemasaran dan penjualan mereka dengan lebih efektif.
 
 # Introduction
 Nike, Inc. adalah salah satu perusahaan sepatu, pakaian dan alat-alat olahraga Amerika Serikat yang merupakan salah satu yang terbesar di dunia. Dikenal karena produk-produk berkualitas tinggi dan desain inovatif menjadikannya sebagai perusahaan pakaian olahraga terbesar nomor satu di dunia.
