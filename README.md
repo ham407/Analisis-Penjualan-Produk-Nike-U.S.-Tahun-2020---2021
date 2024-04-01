@@ -42,7 +42,15 @@ Berdasarkan objektif analisis yang telah disebutkan, berikut goals/tujuan yang d
 4. Menganalisis efektivitas berbagai metode penjualan yang digunakan oleh perusahaan dan menentukan metode mana yang paling efektif dalam meningkatkan penjualan.
 5. Menganalisis pengaruh harga per unit terhadap jumlah unit yang terjual dan total penjualan guna melihat apakah penjualan produk dengan harga yang lebih tinggi menghasilkan pendapatan yang lebih tinggi atau sebaliknya.
 
-## Rekomendasi
+# Rekomendasi
+Berdasarkan analisis yang telah dilakukan terhadap penjualan produk NIKE, berikut adalah beberapa kesimpulan dan rekomendasi strategis untuk tahun-tahun selanjutnya:
+
+1. Dalam upaya meningkatkan penjualan secara keseluruhan, NIKE harus memperkuat fokus pada produk-produk yang telah terbukti sukses, seperti "Men's Street Footwear" dan "Women's Apparel". Seperti melakukan inovasi produk, pengembangan desain, dan peningkatan kualitas untuk mempertahankan daya tarik konsumen.
+2. Mengingat penjualan online memiliki kinerja yang lebih baik, NIKE harus meningkatkan kehadiran dan strategi penjualan online.
+3. NIKE dapat memperkuat kerjasama dengan retailer yang memiliki kontribusi penjualan tertinggi untuk memperluas jangkauan dan penetrasi pasar. Kolaborasi ini dapat meliputi program promosi bersama, tawaran eksklusif, dan strategi penjualan yang disesuaikan dengan karakteristik pasar lokal.
+4. Fokus pada pengembangan pasar di wilayah-wilayah dengan kontribusi penjualan tinggi seperti Arizona, New Hampshire, dan Nevada dapat membantu NIKE memperkuat dan memperluas pangsa pasar. Seperti pembukaan toko baru, peluncuran kampanye pemasaran lokal, dan strategi distribusi yang dioptimalkan.
+5. Perusahaan harus melakukan penelitian pasar yang cermat untuk menetapkan harga produk yang kompetitif namun menguntungkan. Analisis harga dapat membantu dalam menemukan keseimbangan yang tepat antara harga dan nilai produk, sehingga menarik bagi konsumen tetapi juga menghasilkan keuntungan yang memadai.
+
 ---
 ## Sumber:
 1. Datasets: https://www.kaggle.com/datasets/krishnavamsis/nike-sales
