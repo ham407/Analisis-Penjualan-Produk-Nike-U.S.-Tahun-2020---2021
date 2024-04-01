@@ -26,21 +26,23 @@ Sebagai pemimpin global dalam sepatu dan pakaian olahraga, menonjol karena komit
 # Objective & Goals
 Analisis terhadap data penjualan dari Produk Nike ini bertujuan untuk bisa membantu menemukan strategi pemasaran di masa depan hingga meningkatkan penjualan secara optimal.
 
-## Dari data yang ada didapatkan beberapa pertanyaan bisnis yang diantaranya:
+## Objective
+Dari data yang ada didapatkan beberapa pertanyaan bisnis yang diantaranya:
 1. Bagaimana trend penjualan di tahun 2020 - 2021 setiap bulannya?
 2. Apa Produk Nike Yang Paling Laris Terjualan?
 3. Bagaimana Hasil Penjualan Dari Setiap Retailer?
 4. Negara bagian mana yang paling banyak menghasilkan profit?
 5. Bagaimana harga per unit memengaruhi jumlah unit yang terjual dan total penjualan?
 
-## Berdasarkan objektif analisis yang telah disebutkan, berikut goals/tujuan yang diharapkan:
+## Goals
+Berdasarkan objektif analisis yang telah disebutkan, berikut goals/tujuan yang diharapkan:
 1. Membuat visualisasi trend penjualan Nike setiap bulan dari tahun 2020 hingga 2021 untuk mengidentifikasi pola-pola penjualan sepanjang waktu.
 2. Mengidentifikasi produk Nike yang paling laris terjual dan menganalisis preferensi konsumen berdasarkan wilayah untuk meningkatkan penjualan produk tersebut.
 3. Mengidentifikasi negara bagian yang memberikan kontribusi profit tertinggi dan mengoptimalkan strategi pemasaran di negara bagian tersebut.
 4. Menganalisis efektivitas berbagai metode penjualan yang digunakan oleh perusahaan dan menentukan metode mana yang paling efektif dalam meningkatkan penjualan.
 5. Menganalisis pengaruh harga per unit terhadap jumlah unit yang terjual dan total penjualan guna melihat apakah penjualan produk dengan harga yang lebih tinggi menghasilkan pendapatan yang lebih tinggi atau sebaliknya.
 
-
+## Rekomendasi
 ---
 ## Sumber:
 1. Datasets: https://www.kaggle.com/datasets/krishnavamsis/nike-sales
